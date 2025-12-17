@@ -1,4 +1,4 @@
-package strategypattern;
+package strategypattern.card;
 
 public class BankTransferPay implements PayStrategy{
     public void pay (int amount) {

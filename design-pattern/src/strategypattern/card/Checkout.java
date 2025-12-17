@@ -1,4 +1,4 @@
-package strategypattern;
+package strategypattern.card;
 
 public class Checkout {
 
